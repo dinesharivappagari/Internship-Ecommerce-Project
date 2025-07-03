@@ -35,18 +35,14 @@ A complete **MERN (MongoDB, Express, React, Node.js)** based Ecommerce platform 
 
 ---
 
-## 📁 Folder Structure Overview
 
-Ecommerce-App/
-├── client/ # React frontend app
-│ └── (React components, pages, etc.)
-├── controllers/ # Route logic (auth, product, category)
-├── helpers/ # Utility functions
-├── middlewares/ # JWT + admin check
-├── models/ # Mongoose schemas
-├── routes/ # API route definitions
-├── config/ # DB config (MongoDB connection)
-├── .env # Environment variables
-├── server.js # Express app entry point
-└── README.md 
+## 📸 UI Screenshots
+
+### 🖼 Full UI Preview
+
+![Auth & Cart Preview](./screenshots/ui-auth-cart.png)
+
+![UI Overview](./screenshots/ui-overview.png)
+
+
 
